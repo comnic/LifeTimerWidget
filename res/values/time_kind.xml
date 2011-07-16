@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time_kind">
+        <item>일(Day)</item>
+        <item>시간(Hour)</item>
+        <item>분(Mon)</item>
+        <item>초(Sec)</item>
+    </string-array>
+    
+</resources>

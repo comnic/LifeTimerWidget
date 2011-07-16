@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LifeTimerWidgetActivity!</string>
+    <string name="app_name">인생타이머</string>
+    <string name="text1">산날</string>
+    <string name="text2">살날</string>
+    <string name="sec">초</string>
+    <string name="min">분</string>
+    <string name="hour">시간</string>
+    <string name="day">일</string>
+    <string name="color">색상</string>
+    <string name="time_kind">단위</string>
+</resources>
